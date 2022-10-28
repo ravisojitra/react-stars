@@ -1,6 +1,6 @@
 {
   "name": "react-rating-stars-component",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Simple star rating component for your React projects.",
   "main": "src/react-stars.js",
   "repository": "https://github.com/ertanhasani/react-stars",
